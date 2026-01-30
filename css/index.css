@@ -38,6 +38,7 @@ header{
   flex-direction: column;
   background: #2ecc71;
   position: relative;
+  z-index: 10;
 }
 
 header h1{
